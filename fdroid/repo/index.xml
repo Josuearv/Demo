@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="Demo" pubkey="30820503308202eba00302010202042f354386300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3230313131393136343635305a170d3438303430363136343635305a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100a5c6d596f67ab1f5d40ad687caf0e969c7c95242303c3d48290784272c3fcbe04794dfec4deee39a48e8333fd646738969acc74227a4b945089ffc6e3a1b484753836364bea600dc055ca1b6684f8106d82a1a5261744edc9f54aeaa18c4ed5c21b286f69a989df35787ca91379897b523273f5060659892fb3a06704ab433398aae3cf0e28bde26aa1e8273df11a8a14af89686ef7e231250cc862fd631073f971a5aa992be28bf696a755da71f69398b3c17d147ae4f332204acd9364f3b4906a111083ba07e42f3514db098ba254af5ba8506cda0dba9ab266b78395740ef33a17e6939ae745a35dd34daf1d5340a9986ec669a5bd9d34e1473ee9a39b4c22cd91c6b2c3f3b32efbcba448be38f31feee508712a84117e286ef4823e4929804e3d8c3f270ad98803defdf562bb37dc75ff73dee4d1653bb2157c5abef8c1c25b17b9b7e478f555808c29b1d280d9b7b1f9bd4e85cd12cac4774000e56aecccb0054d62c4e4aa67c4bbf5f71b7dda788e529ad5e1b46dc8354bd66c2b9e0c558c7dff8d515217e55e8176f0300ace71cb306a2ddbf0fdaab7ff5d8a2c6c592aad2038b59abade50ab13813108477dfe69fa66192385b9b0ac49c5d50d278f6a62e68bcd6ae02d6f98c674ddc242482b35204bf6ece35edf5cffc3d3ca7482127501304ddb30cacbfed221bc40d0cd7c475b13673358bdba55bd306a9e6fae10203010001a321301f301d0603551d0e04160414b7f7b3bbbc25dae55e27594203c72dd4ea63094c300d06092a864886f70d01010b0500038202010082a19e81fb4bb34b50c27cf74dd1877405917a93f04423e120afb390884c287edeb874e587e5d6ebc7a5c4db8ae0d92d08f77ecdd31020ee73ef99174422fbd4b4d0ea9a5f768d75fb7894122b0047cef48bdc92040fbf503cf23b6492c20e7cfdc900602d55426f038c6065889edb89bc226edc37a4fd99b8b9d95c6679a41ff3916e09b678a3165890fce2872a6fb7203a0796ea5ed545efce05e12edb66552c19f7220ba4e9937394bff026934e387f218c0f556f1c63c485333b851ba4d86884a573078b5354eba41f86112578f82695fd40fc213ceb23382308b9b4368a57b499cb831b01397cb04532b15533a3edf4b7f014fb70584439a99600842a31fa3f448cf6e4e953d836d70c72c2fb727425c8628b81c91a78f941ca9784ebda2c93370c7ca1abe0cd9642e4fcf0019124b7ef8dcc7cc48f2e8f0ca3a8479e7ab1c097c8f86dec9655c340cd8fd98ddcdb766fff786f7b7f49d4586179f5e26e1b1e60c2b2b52dac6376da4414719292e5f6206ec17cf10dbbd519f24043849e99ff00a866824c0a638d3a93ab67ef6da5ac755b6538b0ba4c9cf710d3ead8d295ab6a25db8c5e6df242bce7acf5636b48e8b0ff2ab33ace682801043f35684fddff0d7e75db1e344d948e6cc4725bc4f2a910d4d12be5db7921efc226fa3ca87b594cdaa410f0b02794fc4c325d9cc2e09d0e5d6e3819c8805ef5c046cdafec" timestamp="1605810730" url="https://raw.githubusercontent.com/Josuearv/Demo/master/fdroid/repo" version="21">
+		<description>Demo</description>
+		<mirror>https://raw.githubusercontent.com/Josuearv/Demo/master/fdroid/repo/repo</mirror>
+		<mirror>https://raw.githubusercontent.com/Josuearv/demo3/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="finarea.JustVoip">
+		<id>finarea.JustVoip</id>
+		<added>2020-11-19</added>
+		<lastupdated>2020-11-19</lastupdated>
+		<name>JustVoip</name>
+		<summary></summary>
+		<icon>finarea.JustVoip.798.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>798</marketvercode>
+		<package>
+			<version>7.98</version>
+			<versioncode>798</versioncode>
+			<apkname>finarea-justvoip-798-53920006-03703b9b293a91b9d4221aef24f52926.apk</apkname>
+			<hash type="sha256">44d8b7b05f47edb39a0dc2cfa8a0e3d61b8e6a57b97db49cbd93e6876e146349</hash>
+			<size>12701336</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-11-19</added>
+			<sig>4d047c1f37245fb4af409150c9a91d23</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,BROADCAST_STICKY,CALL_PHONE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MODIFY_AUDIO_SETTINGS,READ_CONTACTS,READ_PHONE_STATE,RECORD_AUDIO,REORDER_TASKS,WAKE_LOCK,WRITE_CONTACTS,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="ch.protonmail.android">
+		<id>ch.protonmail.android</id>
+		<added>2020-11-19</added>
+		<lastupdated>2020-11-19</lastupdated>
+		<name>ProtonMail</name>
+		<summary></summary>
+		<icon>ch.protonmail.android.746.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>746</marketvercode>
+		<package>
+			<version>1.13.21</version>
+			<versioncode>746</versioncode>
+			<apkname>protonmail-1-13-21.apk</apkname>
+			<hash type="sha256">a82746e690c5a8d2341b58239211e6fa7213f6f31f84a0d4cfc6e7046886b577</hash>
+			<size>27074049</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2020-11-19</added>
+			<sig>156bc7d5cb9089376a7b7e6b1d4fa758</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,READ_CONTACTS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="org.telegram.messenger">
+		<id>org.telegram.messenger</id>
+		<added>2020-11-19</added>
+		<lastupdated>2020-11-19</lastupdated>
+		<name>Telegram</name>
+		<summary></summary>
+		<icon>org.telegram.messenger.21399.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>21399</marketvercode>
+		<package>
+			<version>7.2.1</version>
+			<versioncode>21399</versioncode>
+			<apkname>app.apk</apkname>
+			<hash type="sha256">799c773e404c3f9be3bc18f67b2f9add115e6251f444e6c52420efbd0e5e7daa</hash>
+			<size>53037124</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-11-19</added>
+			<sig>3a7766b8cba893bbf2f9d01696196b4c</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,CALL_PHONE,CAMERA,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,READ_APP_BADGE,READ_CALL_LOG,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.providers.gsf.permission.READ_GSERVICES,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.telegram.messenger.permission.MAPS_RECEIVE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="org.torproject.torbrowser">
+		<id>org.torproject.torbrowser</id>
+		<added>2020-11-19</added>
+		<lastupdated>2020-11-19</lastupdated>
+		<name>Tor Browser</name>
+		<summary></summary>
+		<icon>org.torproject.torbrowser.2015737899.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2015737899</marketvercode>
+		<package>
+			<version>10.0.4 (82.1.1-Release)</version>
+			<versioncode>2015737899</versioncode>
+			<apkname>tor-browser-10.0.4-android-aarch64-multi.apk</apkname>
+			<hash type="sha256">26cc011b4eafc118e50f62c72e3258f8d789fd9cdae56eb45c49452bf2ab7532</hash>
+			<size>84919170</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-11-19</added>
+			<sig>31e36334f34e126a0e0d1efd29b84fb2</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<uses-permission maxSdkVersion="26" name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+</fdroid>
